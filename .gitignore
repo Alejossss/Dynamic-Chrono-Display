@@ -1,0 +1,17 @@
+# Compilación de Arduino
+*.hex
+*.elf
+*.bin
+
+# Archivos temporales del IDE
+*.bak
+*.swp
+*.dSYM/
+*.DS_Store
+*.tmp
+
+# Carpetas de compilación
+build/
+out/
+bin/
+obj/
